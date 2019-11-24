@@ -5,7 +5,7 @@
 - JavaScript
 - JQuery
 
-Rules
+#### Rules
 - Start, SIMON will give a first signal
 - Repeat the signal by pressing the same button color.
 - Remeber the preceding signals and SIMON will add one.
